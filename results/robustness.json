@@ -1,0 +1,170 @@
+{
+ "numeraire_robustness": {
+  "aud": {
+   "JPY": {
+    "levels_2020_26": {
+     "beta": 0.232,
+     "t": 11.0,
+     "r2": 0.629
+    },
+    "returns_2020_26": {
+     "beta": 0.25,
+     "t": 7.9,
+     "r2": 0.129
+    },
+    "controls_full": {
+     "beta_gold": 0.156,
+     "t_gold": 12.2
+    }
+   },
+   "EUR": {
+    "levels_2020_26": {
+     "beta": -0.114,
+     "t": -7.2,
+     "r2": 0.371
+    },
+    "returns_2020_26": {
+     "beta": 0.101,
+     "t": 6.0,
+     "r2": 0.038
+    },
+    "controls_full": {
+     "beta_gold": 0.142,
+     "t_gold": 7.7
+    }
+   },
+   "CHF": {
+    "levels_2020_26": {
+     "beta": -0.318,
+     "t": -11.4,
+     "r2": 0.611
+    },
+    "returns_2020_26": {
+     "beta": 0.122,
+     "t": 5.2,
+     "r2": 0.042
+    },
+    "controls_full": {
+     "beta_gold": -0.168,
+     "t_gold": -9.8
+    }
+   },
+   "BASKET": {
+    "levels_2020_26": {
+     "beta": -0.082,
+     "t": -2.7,
+     "r2": 0.041
+    },
+    "returns_2020_26": {
+     "beta": 0.426,
+     "t": 13.8,
+     "r2": 0.319
+    },
+    "controls_full": {
+     "beta_gold": 0.125,
+     "t_gold": 8.9
+    }
+   }
+  },
+  "zar": {
+   "JPY": {
+    "levels_2020_26": {
+     "beta": 0.201,
+     "t": 10.5,
+     "r2": 0.558
+    },
+    "returns_2020_26": {
+     "beta": 0.288,
+     "t": 8.6,
+     "r2": 0.106
+    },
+    "controls_full": {
+     "beta_gold": -0.153,
+     "t_gold": -3.3
+    }
+   },
+   "EUR": {
+    "levels_2020_26": {
+     "beta": -0.142,
+     "t": -5.6,
+     "r2": 0.259
+    },
+    "returns_2020_26": {
+     "beta": 0.137,
+     "t": 6.1,
+     "r2": 0.033
+    },
+    "controls_full": {
+     "beta_gold": -0.219,
+     "t_gold": -7.9
+    }
+   },
+   "CHF": {
+    "levels_2020_26": {
+     "beta": -0.332,
+     "t": -7.6,
+     "r2": 0.393
+    },
+    "returns_2020_26": {
+     "beta": 0.172,
+     "t": 6.0,
+     "r2": 0.042
+    },
+    "controls_full": {
+     "beta_gold": -0.589,
+     "t_gold": -11.4
+    }
+   },
+   "BASKET": {
+    "levels_2020_26": {
+     "beta": -0.081,
+     "t": -2.0,
+     "r2": 0.024
+    },
+    "returns_2020_26": {
+     "beta": 0.435,
+     "t": 13.8,
+     "r2": 0.253
+    },
+    "controls_full": {
+     "beta_gold": -0.237,
+     "t_gold": -8.6
+    }
+   }
+  }
+ },
+ "quandt_andrews": {
+  "aud": {
+   "levels_break": "2008-09-11",
+   "levels_supF": 1409.3,
+   "returns_break": "2011-05-10",
+   "returns_supF": 33.1
+  },
+  "zar": {
+   "levels_break": "2015-11-02",
+   "levels_supF": 5393.1,
+   "returns_break": "2011-05-03",
+   "returns_supF": 16.5
+  },
+  "cad": {
+   "levels_break": "2008-10-09",
+   "levels_supF": 3624.1,
+   "returns_break": "2011-06-15",
+   "returns_supF": 29.6
+  },
+  "chf": {
+   "levels_break": "2013-04-08",
+   "levels_supF": 3877.1,
+   "returns_break": "2013-04-09",
+   "returns_supF": 12.1
+  }
+ },
+ "aud_strategy_metrics": {
+  "ann_return_pct": 0.39,
+  "ann_vol_pct": 3.86,
+  "sharpe": 0.1,
+  "max_drawdown_pct": -9.87,
+  "total_log_ret_pct": 4.5,
+  "years": 11.5
+ }
+}
