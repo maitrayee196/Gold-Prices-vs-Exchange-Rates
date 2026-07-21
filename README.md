@@ -17,11 +17,11 @@
 
 ## Key takeaways
 
-- **The Australian dollar is the one real gold currency here, and its link to gold holds up under pressure.** Since 2020, daily gold moves and daily AUD moves travel together no matter which currency we price them in — yen, euro, franc, or a four-currency basket — and gold keeps its punch even after we control for the dollar and market fear. No other currency in the study clears that bar.
+- **The Australian dollar is the one real gold currency here, and its link to gold holds up under pressure.** Since 2020, daily gold moves and daily AUD moves travel together no matter which currency we price them in, yen, euro, franc, or a four-currency basket, and gold keeps its punch even after we control for the dollar and market fear. No other currency in the study clears that bar.
 - **Be careful how you quote the headline.** Gold "explaining 63% of AUD" is the flashy version, and it is the fragile one: it comes from price levels measured in yen, and part of it is just the yen falling apart in 2022-24. Price the same thing in euros and it fades; the day-to-day relationship, by contrast, holds everywhere. Levels flatter the story. Returns carry it.
 - **South Africa's gold-currency reputation does not survive the tests.** Put the dollar and volatility into the regression and the rand's gold coefficient turns negative in every measuring currency. The rand trades on the dollar and global risk appetite, not on gold.
-- **The relationship has no permanent anchor.** Cointegration tests find nothing pulling gold and these currencies back together, so when they drift apart they can stay apart for years. And a formal break search does not endorse a clean "2020" regime — the biggest breaks land in 2008 and 2011. The 2020s split in the tables is a convenient description, not a statistical fact, and it is labeled that way.
-- **It is real, but it is not a trade.** The AUD strategy makes 4.5% before costs over 11.5 years — a Sharpe of 0.10 and a 10% drawdown — and realistic trading costs would eat most of what is left.
+- **The relationship has no permanent anchor.** Cointegration tests find nothing pulling gold and these currencies back together, so when they drift apart they can stay apart for years. And a formal break search does not endorse a clean "2020" regime, the biggest breaks land in 2008 and 2011. The 2020s split in the tables is a convenient description, not a statistical fact, and it is labeled that way.
+- **It is real, but it is not a trade.** The AUD strategy makes 4.5% before costs over 11.5 years, a Sharpe of 0.10 and a 10% drawdown, and realistic trading costs would eat most of what is left.
 
 ---
 
@@ -29,10 +29,10 @@
 
 | Currency | Levels link, 2020-26 (JPY) | Returns link, 2020-26 (all numeraires) | Survives controls? | Verdict |
 |---|---|---|---|---|
-| **AUD** | Strong (R² 0.63) | **Positive, significant in all four** | **Yes, in 3 of 4 numeraires** | The genuine article — but only lately |
+| **AUD** | Strong (R² 0.63) | **Positive, significant in all four** | **Yes, in 3 of 4 numeraires** | The genuine article, but only lately |
 | **ZAR** | Strong (R² 0.56) | Positive (common global factor) | **No, negative in all four** | A dollar and risk currency in disguise |
 | **CAD** | Strong (R² 0.60) | Positive | Yes (JPY: β 0.11, t 5.2) | A minor, quieter gold link |
-| **CHF** | Strongest (R² 0.86) | Positive | Yes (JPY terms) | The trap — a safe-haven twin with no mines |
+| **CHF** | Strongest (R² 0.86) | Positive | Yes (JPY terms) | The trap, a safe-haven twin with no mines |
 
 *The franc is the cautionary tale of the whole project: the strongest gold correlation in the sample belongs to a country that mines no gold. Correlation is not geology.*
 
@@ -48,7 +48,7 @@ The pieces are familiar. Chen and Rogoff (2003) built the commodity-currency fra
 
 The market shorthand is that the Australian dollar and the South African rand are leveraged bets on gold, because gold is a big part of what they export. It is a reasonable-sounding claim that gets repeated far more often than it gets checked. This is the check.
 
-Gold makes an awkward test case, because it is not just a commodity — it is money-adjacent. Its price answers to US real interest rates, the strength of the dollar, and how frightened the world feels, which happen to be the same forces that push commodity currencies around. So a raw correlation between gold and the Aussie is really three stories tangled together:
+Gold makes an awkward test case, because it is not just a commodity, it is money-adjacent. Its price answers to US real interest rates, the strength of the dollar, and how frightened the world feels, which happen to be the same forces that push commodity currencies around. So a raw correlation between gold and the Aussie is really three stories tangled together:
 
 1. **The income story.** Dearer gold means a gold exporter earns more, so its currency should firm. This is the one the market assumes.
 2. **The dollar story.** Gold is priced in dollars, so a softer dollar lifts the dollar-price of gold and most currencies at once, mechanically.
@@ -61,7 +61,7 @@ Each one is in the study to do a specific job:
 | Currency | Role | Why it earns a seat |
 |---|---|---|
 | **AUD** | Primary candidate | Top-three producer, gold near the top of the export list, currency floats freely. If anything is a gold currency, it is this. |
-| **ZAR** | Historic candidate | The original gold currency — but the mines have been shrinking for twenty years, so it tests whether the label outlives the industry. |
+| **ZAR** | Historic candidate | The original gold currency, but the mines have been shrinking for twenty years, so it tests whether the label outlives the industry. |
 | **CAD** | Control | Canada mines plenty of gold yet exports oil, cars and metals too. If the loonie tracks gold as tightly as the Aussie, the link is probably global, not mining. |
 | **CHF** | The trap | Switzerland mines no gold, but the franc and gold both catch safe-haven flows. However strong its "gold link" looks, that is the size of the false positive we need to watch for. |
 
@@ -71,13 +71,13 @@ The other big producers are out for good reasons: China consumes its own gold an
 
 Here is the trap almost everyone falls into. Gold is priced in dollars, so if you test the Aussie against gold and measure both in dollars, the dollar is sitting inside both numbers and it manufactures a correlation out of thin air. Section 2 shows this happening to the rand in living colour.
 
-So the main analysis measures everything in Japanese yen — Japan mines almost no gold and the yen floats freely and trades deeply. That is the cleanest single yardstick available, but it is not perfect: the yen has a life of its own (Bank of Japan policy, carry trades, safe-haven flows), and it was one of the weakest major currencies of 2022-24, which quietly trends every yen-priced series upward together. Pricing in yen greatly reduces the dollar contamination; it does not erase measuring-stick effects entirely. That is exactly why every headline result is re-run in the euro, the franc, and a four-currency basket (Section 4), and why the conclusions lean only on what survives all of them.
+So the main analysis measures everything in Japanese yen, Japan mines almost no gold and the yen floats freely and trades deeply. That is the cleanest single yardstick available, but it is not perfect: the yen has a life of its own (Bank of Japan policy, carry trades, safe-haven flows), and it was one of the weakest major currencies of 2022-24, which quietly trends every yen-priced series upward together. Pricing in yen greatly reduces the dollar contamination; it does not erase measuring-stick effects entirely. That is exactly why every headline result is re-run in the euro, the franc, and a four-currency basket (Section 4), and why the conclusions lean only on what survives all of them.
 
 ---
 
 ## 2. The dollar effect
 
-This is the most important chart in the project. In dollars, the rand looks powerfully tied to gold — with the wrong sign (β −0.57, R² 0.53). Re-price it in yen and the drama collapses into two long trends passing each other in the night: gold climbing, the rand sliding.
+This is the most important chart in the project. In dollars, the rand looks powerfully tied to gold, with the wrong sign (β −0.57, R² 0.53). Re-price it in yen and the drama collapses into two long trends passing each other in the night: gold climbing, the rand sliding.
 
 ![alt text](preview/dollar_effect_zar.png)
 
@@ -117,7 +117,7 @@ Add the broad dollar and the VIX as controls (2006-2025, yen terms) and the gold
 | **Returns β, 2020-26** | **+0.25 (t 7.9)** | **+0.10 (t 6.0)** | **+0.12 (t 5.2)** | **+0.43 (t 13.8)** |
 | Controls β (full sample) | +0.16 (t 12.2) | +0.14 (t 7.7) | −0.17 (t −9.8) | +0.13 (t 8.9) |
 
-Read the top two rows together and the lesson is unmistakable. The *levels* link is a chameleon — strongly positive only in yen, partly because the weak yen of 2022-24 dragged AUD/JPY and gold/JPY up in tandem. The *returns* link is positive and significant in every single numeraire, and the controls survive in three of four (the franc is the expected exception — measure against the franc and you subtract the very safe-haven factor gold shares). So the honest, durable claim is a returns claim: day to day, gold and the Aussie move together in this era, whatever you price them in.
+Read the top two rows together and the lesson is unmistakable. The *levels* link is a chameleon, strongly positive only in yen, partly because the weak yen of 2022-24 dragged AUD/JPY and gold/JPY up in tandem. The *returns* link is positive and significant in every single numeraire, and the controls survive in three of four (the franc is the expected exception, measure against the franc and you subtract the very safe-haven factor gold shares). So the honest, durable claim is a returns claim: day to day, gold and the Aussie move together in this era, whatever you price them in.
 
 The rand needs no such nuance. With controls, its gold coefficient is negative in all four numeraires (−0.15 yen, −0.22 euro, −0.59 franc, −0.24 basket). Not a gold currency, any way you slice it.
 
@@ -127,7 +127,7 @@ The rand needs no such nuance. With controls, its gold coefficient is negative i
 
 ## 5. The long run, and who leads whom
 
-**No anchor.** Engle-Granger finds no cointegration for any of the four (AUD closest at p = 0.07; ZAR nowhere at p = 0.88), and Johansen agrees, selecting rank 0 in every {FX, gold, dollar} system. Where an adjustment speed can be pinned down at all, half a gap takes 190-350 trading days to close — far too slow to lean on.
+**No anchor.** Engle-Granger finds no cointegration for any of the four (AUD closest at p = 0.07; ZAR nowhere at p = 0.88), and Johansen agrees, selecting rank 0 in every {FX, gold, dollar} system. Where an adjustment speed can be pinned down at all, half a gap takes 190-350 trading days to close, far too slow to lean on.
 
 **Who carries information about whom?** Granger tests ask whether yesterday's gold returns help forecast today's currency returns, and vice versa. That is predictive content, not proof of causation, and the distinction matters. The p-values below are the smallest across the five lags tested, which flatters borderline cases a little:
 
@@ -136,13 +136,13 @@ The rand needs no such nuance. With controls, its gold coefficient is negative i
 | Gold → currency | **0.001** | 0.39 | **0.011** | 0.39 |
 | Currency → gold | 0.06 | **0.004** | 0.27 | **0.007** |
 
-For the producers (AUD, CAD), gold leads — news hits the gold market first and filters into the miners' currencies. For the risk currencies (ZAR, CHF), it runs the other way, because those currencies are mood rings for global risk, and the mood moves gold. The direction of the arrow is itself a way to classify a currency.
+For the producers (AUD, CAD), gold leads, news hits the gold market first and filters into the miners' currencies. For the risk currencies (ZAR, CHF), it runs the other way, because those currencies are mood rings for global risk, and the mood moves gold. The direction of the arrow is itself a way to classify a currency.
 
 **Out-of-sample fit.** Using the same day's gold move, a gold model cuts forecast error (mean squared error) by 9-12% versus a coin-flip random walk, for all four currencies. That is same-day explanation, not a crystal ball.
 
 ![alt text](preview/rolling_r2.png)
 
-The rolling chart is the honest one-picture summary: the link lives in bursts, above the 70% line only 7-16% of the time — 2008-09, 2011-13, 2022-26. Being a gold currency is something a currency does now and then, not something it is.
+The rolling chart is the honest one-picture summary: the link lives in bursts, above the 70% line only 7-16% of the time, 2008-09, 2011-13, 2022-26. Being a gold currency is something a currency does now and then, not something it is.
 
 ---
 
@@ -163,15 +163,15 @@ Run the AUD book's daily P&L through the usual desk metrics and the verdict is b
 ![alt text](preview/strategy_aud.png)
 ![alt text](preview/heatmap_aud.png)
 
-Three things keep the number honest. The tuned +9.2% you can squeeze from the grid is in-sample cherry-picking, and the cells next to it lose money. Returns are gross of costs, and at ~10bp of profit per trade, AUD/JPY spreads and slippage would take most of it. And these are sums of per-trade returns on flat position sizing, not a compounded portfolio. A real version would need a regime filter — trade only inside the high-fit clusters — and walk-forward validation. That is future work, and it is flagged as such.
+Three things keep the number honest. The tuned +9.2% you can squeeze from the grid is in-sample cherry-picking, and the cells next to it lose money. Returns are gross of costs, and at ~10bp of profit per trade, AUD/JPY spreads and slippage would take most of it. And these are sums of per-trade returns on flat position sizing, not a compounded portfolio. A real version would need a regime filter, trade only inside the high-fit clusters, and walk-forward validation. That is future work, and it is flagged as such.
 
 ---
 
 ## 7. What it all means
 
-**If you invest:** don't read a gold chart as a currency forecast. The durable link is in daily returns, it is modest, and it mostly switches on in weak-dollar, high-fear windows. Watch the dollar and US real rates first — they sit behind both sides of the chart.
+**If you invest:** don't read a gold chart as a currency forecast. The durable link is in daily returns, it is modest, and it mostly switches on in weak-dollar, high-fear windows. Watch the dollar and US real rates first, they sit behind both sides of the chart.
 
-**If you set policy in a gold exporter:** a gold boom can genuinely firm the currency when the global backdrop cooperates, as Australia since 2020 shows. But there is no long-run anchor, and South Africa is a cautionary tale in how fast the label fades once the mines shrink. Treat a gold windfall like any commodity windfall — save some, hedge some, don't build the budget on it.
+**If you set policy in a gold exporter:** a gold boom can genuinely firm the currency when the global backdrop cooperates, as Australia since 2020 shows. But there is no long-run anchor, and South Africa is a cautionary tale in how fast the label fades once the mines shrink. Treat a gold windfall like any commodity windfall, save some, hedge some, don't build the budget on it.
 
 **If you research this next:** the direction-of-information test cleanly split producers from risk currencies, and it is cheap and repeatable. The obvious extensions: multi-break Bai-Perron dating, an SDR-style basket, interest-rate-differential and terms-of-trade controls, Peru and Ghana, and a walk-forward version of the trade.
 
@@ -181,7 +181,7 @@ Three things keep the number honest. The tuned +9.2% you can squeeze from the gr
 - No daily real-rate (TIPS) series was available in the free data used.
 - The break test is single-break (Quandt-Andrews); multi-break Bai-Perron, an SDR numeraire, and walk-forward strategy validation are all future work.
 - The broad dollar index runs 2006 to Dec 2025; the daily gold fix mirror ends Feb 2026.
-- The data mirrors refresh daily — to reproduce the exact numbers here, use the frozen files in `data/raw` rather than re-downloading.
+- The data mirrors refresh daily, to reproduce the exact numbers here, use the frozen files in `data/raw` rather than re-downloading.
 
 ---
 
@@ -208,7 +208,7 @@ python scripts/07_robustness.py      # numeraire robustness, break tests, risk m
 6. Pukthuanthong K, Roll R (2011), *Gold and the Dollar (and the Euro, Pound, and Yen).*
 7. Capie F, Mills T, Wood G (2005), *Gold as a Hedge Against the Dollar.*
 8. Meese R, Rogoff K (1983), *Empirical Exchange Rate Models of the Seventies.*
-9. O'Connor F, Lucey B, Batten J, Baur D (2015), *The Financial Economics of Gold — A Survey.*
+9. O'Connor F, Lucey B, Batten J, Baur D (2015), *The Financial Economics of Gold, A Survey.*
 
 ---
 
